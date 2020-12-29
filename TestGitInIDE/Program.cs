@@ -6,7 +6,9 @@ namespace TestGitInIDE
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("git");   
+            Console.WriteLine("Hello");
         }
     }
 }
+
