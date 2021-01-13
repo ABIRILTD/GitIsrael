@@ -6,7 +6,6 @@ namespace TestGitInIDE
     {
         static void Main(string[] args)
         {
-            //add 10
             // add 9
             // add 5
             //add2
